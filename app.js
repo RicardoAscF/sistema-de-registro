@@ -1,2 +1,2 @@
 console.log('creando el sistema');
-console.log();
+console.log('ejemplo');
